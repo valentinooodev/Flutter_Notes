@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62626873913",
+    "project_id": "flutter-notes-26c12",
+    "storage_bucket": "flutter-notes-26c12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62626873913:android:84fe986c9b0ba167d783e8",
+        "android_client_info": {
+          "package_name": "vn.evolab.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62626873913-jcscp73oom2m6llacerg4298s16en2g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFUU8MTLQJaL7ADfKQMwrkzz07d7NmIe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62626873913-jcscp73oom2m6llacerg4298s16en2g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
